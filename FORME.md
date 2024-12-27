@@ -1,9 +1,21 @@
 # Working
 
 ## Running
+Install Paper :
+https://reactnativepaper.com/
+```
+npm install react-native-paper react-native-vector-icons
+```
 ```
 npm start
 ```
+
+Start the emulator
+```
+emulator -list-avds
+emulator -avd Medium_Phone_API_35
+```
+
 Debug
 ```
 npx react-native doctor
